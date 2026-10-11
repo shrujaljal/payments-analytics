@@ -11,7 +11,7 @@
 |---|---|
 | Final Payouts | `SUM([Is Final])` |
 | Failure Rate | `SUM([Is Failed]) / SUM([Is Final])` (format as % with 1 decimal) |
-| Success Rate | `1 - [Failure Rate]` |
+| Success Rate | `SUM(IF [Status] = "Completed" THEN 1 ELSE 0 END) / SUM([Is Final])` (matches the data dictionary: reversed payouts are not successes) |
 | Revenue | `SUM([Revenue Usd])` |
 | Take Rate (bps) | `SUM([Revenue Usd]) / SUM([Send Amount Usd]) * 10000` |
 | Median Minutes | `MEDIAN([Processing Minutes])` |
