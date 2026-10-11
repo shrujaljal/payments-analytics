@@ -1,0 +1,11 @@
+member_name,segment,payouts,h1_failure_rate_pct,q3_failure_rate_pct,change_pts
+DeltaPay,Fintech,1610,2.67,14.33,11.66
+RidgeRemit,Remittance (MTO),557,2.98,4.52,1.55
+TidalPay Gateway,PSP,4053,2.43,3.13,0.69
+OrbitPay,Fintech,704,3.61,4.21,0.6
+IvoryRide,Gig economy,3084,2.65,3.24,0.59
+HavenPay,Fintech,5469,3.16,3.48,0.33
+JunoRemit,Remittance (MTO),1883,2.76,3.04,0.28
+RallyRide,Gig economy,2633,3.67,3.93,0.27
+SagePay,Fintech,4452,2.73,3.0,0.27
+PeakPay Gateway,PSP,5015,2.56,2.82,0.25

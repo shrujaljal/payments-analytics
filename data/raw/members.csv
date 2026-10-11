@@ -1,0 +1,41 @@
+member_id,member_name,segment,onboarded_date
+M001,VivoRide,Gig economy,2024-02-03
+M002,ZenRide,Gig economy,2025-05-23
+M003,IvoryRide,Gig economy,2025-01-01
+M004,CrestRide,Gig economy,2024-10-06
+M005,KiteRide,Gig economy,2024-09-10
+M006,FlintRide,Gig economy,2025-09-27
+M007,RallyRide,Gig economy,2024-07-31
+M008,PulseRide,Gig economy,2025-06-26
+M009,MapleRemit,Remittance (MTO),2024-02-17
+M010,RidgeRemit,Remittance (MTO),2024-04-08
+M011,BrioRemit,Remittance (MTO),2023-09-20
+M012,QuillRemit,Remittance (MTO),2024-02-16
+M013,CoralRemit,Remittance (MTO),2024-12-30
+M014,JunoRemit,Remittance (MTO),2023-08-13
+M015,ArcRemit,Remittance (MTO),2026-02-02
+M016,PrismRemit,Remittance (MTO),2025-02-02
+M017,UmbraRemit,Remittance (MTO),2023-10-04
+M018,TerraRemit,Remittance (MTO),2024-12-26
+M019,OnyxRemit,Remittance (MTO),2025-08-30
+M020,HarborRemit,Remittance (MTO),2024-10-04
+M021,SagePay,Fintech,2024-01-04
+M022,VelaPay,Fintech,2025-05-27
+M023,HavenPay,Fintech,2024-10-10
+M024,LumenPay,Fintech,2025-07-16
+M025,DeltaPay,Fintech,2024-04-05
+M026,NimbusPay,Fintech,2024-09-29
+M027,EmberPay,Fintech,2025-01-29
+M028,OrbitPay,Fintech,2025-04-26
+M029,NovaPay,Fintech,2024-07-16
+M030,EchoPay,Fintech,2024-04-19
+M031,TidalPay Gateway,PSP,2023-09-05
+M032,ZephyrPay Gateway,PSP,2024-10-31
+M033,PeakPay Gateway,PSP,2025-06-21
+M034,SolPay Gateway,PSP,2023-12-04
+M035,GoldenPay Gateway,PSP,2024-05-22
+M036,AtlasPay Gateway,PSP,2024-03-24
+M037,WillowBank,Bank,2025-08-13
+M038,SwiftBank,Bank,2026-03-02
+M039,FernBank,Bank,2026-05-11
+M040,BoltBank,Bank,2026-07-06

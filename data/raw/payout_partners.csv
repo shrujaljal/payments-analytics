@@ -1,0 +1,27 @@
+partner_id,partner_name,country,payout_method
+P01,PH Wallet Partner A,PH,Mobile wallet
+P02,PH Wallet Partner B,PH,Mobile wallet
+P03,PH Bank Partner A,PH,Bank account
+P04,PH Bank Partner B,PH,Bank account
+P05,MX Wallet Partner A,MX,Mobile wallet
+P06,MX Bank Partner A,MX,Bank account
+P07,IN Wallet Partner A,IN,Mobile wallet
+P08,IN Wallet Partner B,IN,Mobile wallet
+P09,IN Bank Partner A,IN,Bank account
+P10,IN Bank Partner B,IN,Bank account
+P11,PK Wallet Partner A,PK,Mobile wallet
+P12,PK Bank Partner A,PK,Bank account
+P13,KE Wallet Partner A,KE,Mobile wallet
+P14,KE Bank Partner A,KE,Bank account
+P15,NG Wallet Partner A,NG,Mobile wallet
+P16,NG Bank Partner A,NG,Bank account
+P17,ID Wallet Partner A,ID,Mobile wallet
+P18,ID Bank Partner A,ID,Bank account
+P19,BD Wallet Partner A,BD,Mobile wallet
+P20,BD Bank Partner A,BD,Bank account
+P21,SN Wallet Partner A,SN,Mobile wallet
+P22,SN Bank Partner A,SN,Bank account
+P23,GH Wallet Partner A,GH,Mobile wallet
+P24,GH Bank Partner A,GH,Bank account
+P25,CN Wallet Partner A,CN,Mobile wallet
+P26,CN Bank Partner A,CN,Bank account

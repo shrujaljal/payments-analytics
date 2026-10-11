@@ -1,0 +1,23 @@
+corridor,payout_method,payouts,volume_usd_m,failure_rate_pct,p50_processing_sec,p90_processing_min,revenue_usd_k,worst_reliability_rank
+GB-NG,Bank account,4489,1.0,8.04,1794.0,74.4,16.3,1
+AE-PK,Mobile wallet,2993,0.94,4.85,6.0,0.3,12.3,2
+AE-PK,Bank account,3034,0.97,4.42,113.0,746.1,12.8,3
+GB-KE,Mobile wallet,5568,1.35,3.86,6.0,0.2,21.7,4
+GB-KE,Bank account,994,0.23,3.63,93.0,4.0,3.7,5
+HK-CN,Bank account,693,0.19,3.17,94.0,4.5,1.7,6
+US-PH,Mobile wallet,20196,4.94,3.13,6.0,0.2,65.3,7
+HK-CN,Mobile wallet,6206,1.91,3.08,6.0,0.2,17.2,8
+US-PH,Bank account,8579,2.06,2.96,91.0,4.2,27.3,9
+US-GH,Bank account,1230,0.27,2.93,90.0,4.2,4.5,10
+AE-IN,Bank account,17562,4.04,2.89,106.0,731.0,43.9,11
+US-MX,Bank account,11680,2.44,2.8,90.0,4.2,28.4,12
+US-IN,Mobile wallet,1336,0.35,2.77,6.0,0.2,3.6,13
+US-IN,Bank account,12386,3.56,2.77,108.0,748.5,35.7,14
+SG-ID,Bank account,3308,0.83,2.7,92.0,4.3,10.0,15
+US-MX,Mobile wallet,3759,0.77,2.66,6.0,0.2,9.0,16
+AE-IN,Mobile wallet,1969,0.49,2.59,6.0,0.2,5.3,17
+FR-SN,Mobile wallet,1936,0.41,2.58,6.0,0.2,6.4,18
+SG-ID,Mobile wallet,4942,1.35,2.57,6.0,0.2,15.9,19
+SA-BD,Bank account,1411,0.31,2.56,2206.0,881.8,4.6,20
+SA-BD,Mobile wallet,2108,0.45,2.52,6.0,0.2,6.8,21
+US-GH,Mobile wallet,2655,0.6,2.3,6.0,0.2,9.8,22

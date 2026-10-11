@@ -1,0 +1,13 @@
+corridor,top_failure_reason,failures,share_of_corridor_failures_pct
+GB-NG,Invalid account details,280,75.5
+AE-IN,Invalid account details,230,41.2
+US-PH,Invalid account details,223,25.2
+US-MX,Invalid account details,159,37.2
+US-IN,Invalid account details,146,38.4
+AE-PK,Compliance rejection,108,38.7
+GB-KE,Insufficient prefunding,68,27.1
+SG-ID,Invalid account details,62,28.7
+HK-CN,Wallet not registered,44,20.7
+US-GH,Invalid account details,29,29.9
+SA-BD,Invalid account details,26,29.2
+FR-SN,Name mismatch,11,18.6

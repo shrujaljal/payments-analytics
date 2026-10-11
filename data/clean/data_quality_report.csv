@@ -1,0 +1,13 @@
+check,rows_affected,action
+Rows in raw extract,120480,starting point
+Exact duplicate rows,478,dropped
+Duplicate transaction_id (different values),2,kept latest row
+Status labels with wrong case or spaces,299,standardized
+Unknown status values,0,dropped
+Zero or negative send amounts,45,dropped as test records
+Failure reason on non-failed payout,60,cleared
+Failed payout missing a reason,0,set to 'Unknown'
+Missing fee on completed payout,180,rebuilt from segment fee schedule
+completed_at before created_at,0,dropped
+Unknown member or partner id,0,dropped
+Rows in clean table,119955,99.6% of raw rows kept

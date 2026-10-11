@@ -1,0 +1,16 @@
+receive_country,time_of_month,payouts,prefunding_failures,prefunding_failure_pct
+KE,Last 3 days,767,64.0,8.34
+IN,Rest of month,29564,17.0,0.06
+PH,Rest of month,25533,9.0,0.04
+ID,Rest of month,7327,7.0,0.1
+KE,Rest of month,5795,4.0,0.07
+CN,Rest of month,6140,4.0,0.07
+BD,Rest of month,3099,3.0,0.1
+MX,Rest of month,13726,3.0,0.02
+PK,Rest of month,5333,3.0,0.06
+NG,Rest of month,4426,2.0,0.05
+IN,Last 3 days,3689,2.0,0.05
+GH,Last 3 days,422,1.0,0.24
+MX,Last 3 days,1713,1.0,0.06
+GH,Rest of month,3463,1.0,0.03
+BD,Last 3 days,420,1.0,0.24
